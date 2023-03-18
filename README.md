@@ -11,7 +11,7 @@ Mua vé trực tuyến: Người dùng có thể mua vé trực tuyến thông q
 
 Quản lý đơn đặt vé: Người dùng có thể xem thông tin đơn đặt vé của mình, bao gồm các chi tiết như tên chuyến xe, ngày khởi hành, giờ khởi hành, giá vé.
 
-##Công nghệ sử dụng
+## Công nghệ sử dụng
 ### Ứng dụng được xây dựng bằng các công nghệ sau:
 
 Ngôn ngữ lập trình: php, JavaScript
